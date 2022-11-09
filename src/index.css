@@ -5,6 +5,7 @@
 @tailwind utilities;
 
 :root {
+  -webkit-tap-highlight-color: transparent;
   --black-gradient: linear-gradient(
     144.39deg,
     #ffffff -278.56%,
