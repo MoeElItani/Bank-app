@@ -139,3 +139,7 @@
   background: rgba(255, 255, 255, 0.6);
   filter: blur(750px);
 }
+
+.client:hover{
+  filter: invert(80%) sepia(60%) saturate(10%) hue-rotate(130deg) brightness(60%) contrast(80%);
+}
